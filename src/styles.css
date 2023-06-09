@@ -5,14 +5,14 @@ body {
 h1 {
   text-align: center;
   color: #c0cfcf;
-  line-height: 50px;
+  line-height: 10px;
   text-emphasis-style: 30px;
 }
 h2 {
   text-align: center;
   border: 1px solid #646868;
   border-radius: 4px;
-  padding: 13px;
+  padding: 5px;
   font-size: 24px;
 }
 p {
@@ -23,9 +23,9 @@ p {
 }
 img {
   display: block;
-  margin: 30px auto;
+  margin: 5px auto;
   max-width: 100%;
-  padding: 20px;
+  padding: 5px;
   border-radius: 12%;
 }
 button {
@@ -80,6 +80,6 @@ li {
 }
 .container {
   margin: 0 auto;
-  padding: 30px 40px;
-  max-width: 750px;
+  padding: 5px 10px;
+  max-width: 550px;
 }
